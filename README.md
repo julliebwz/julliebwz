@@ -1,5 +1,5 @@
-
-# Hi!
+![My Image](https://github.com/julliebwz/julliebwz/blob/12399590671da987bde01df9690ba0264de90bbb/github%20header.jpg)
+# Hi👋
 Hi, my name is Najla Bawazier. I’m really interested in research, particularly in Data and AI, and I’m excited to explore various applications of machine learning, AI development, and areas where improvements can be made in the field.
 
 👨‍💻I'm interested in deepening my understanding and skills in the applications of AI, machine learning, and IoT, particularly in system development and their impact on real-world solutions.
